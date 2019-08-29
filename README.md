@@ -1,2 +1,2 @@
-# FirstWebPage
-My first web page using html and css
+# MyFirstWebPage
+First web page of mine using html and css.
