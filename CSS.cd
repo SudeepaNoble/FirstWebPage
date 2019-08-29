@@ -35,7 +35,7 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-color: salmon;
+    background-color: violet;
     background-size: cover;
 }
 #header img {
