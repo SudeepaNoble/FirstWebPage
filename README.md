@@ -1,4 +1,4 @@
 # MyFirstWebPage
 # MyBlog
 
-Using html and css.
+Uses html and css.
